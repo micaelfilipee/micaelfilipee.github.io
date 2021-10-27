@@ -1,0 +1,1743 @@
+{
+    "network": {
+        "items": [
+            {
+                "id": 1,
+                "label": "advance",
+                "x": 0.024006405769996443,
+                "y": -0.06523667662135296,
+                "cluster": 7,
+                "weights": {
+                    "Occurrences": 8
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.625,
+                    "Avg. citations": 3.25,
+                    "Avg. norm. citations": 1.2643
+                }
+            },
+            {
+                "id": 2,
+                "label": "algorithms",
+                "x": 0.1528352406846962,
+                "y": 0.7280459272273165,
+                "cluster": 8,
+                "weights": {
+                    "Occurrences": 12
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1667,
+                    "Avg. citations": 4.5,
+                    "Avg. norm. citations": 0.4061
+                }
+            },
+            {
+                "id": 3,
+                "label": "association",
+                "x": 0.4544096973892271,
+                "y": -0.19754694793796387,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 7
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2857,
+                    "Avg. citations": 11.7143,
+                    "Avg. norm. citations": 1.5741
+                }
+            },
+            {
+                "id": 4,
+                "label": "avaliacao",
+                "x": 1.6960674187079496,
+                "y": -0.4551436490060095,
+                "cluster": 6,
+                "weights": {
+                    "Occurrences": 10
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1,
+                    "Avg. citations": 0,
+                    "Avg. norm. citations": 0
+                }
+            },
+            {
+                "id": 5,
+                "label": "big data",
+                "x": 0.49192875435055444,
+                "y": 0.32907134482874695,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.6667,
+                    "Avg. citations": 17,
+                    "Avg. norm. citations": 1.2188
+                }
+            },
+            {
+                "id": 6,
+                "label": "brasil",
+                "x": -0.789396403819036,
+                "y": -0.11371059974756025,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.1111,
+                    "Avg. citations": 2.6667,
+                    "Avg. norm. citations": 0.7092
+                }
+            },
+            {
+                "id": 7,
+                "label": "case",
+                "x": -0.7532661938766771,
+                "y": 0.22068173746195707,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 13
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3846,
+                    "Avg. citations": 9.3846,
+                    "Avg. norm. citations": 1.52
+                }
+            },
+            {
+                "id": 8,
+                "label": "case study",
+                "x": -0.628930428736625,
+                "y": -0.34416033338503865,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 17
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.6471,
+                    "Avg. citations": 3.1765,
+                    "Avg. norm. citations": 0.6753
+                }
+            },
+            {
+                "id": 9,
+                "label": "classification system",
+                "x": -0.6496211751464335,
+                "y": 1.0822983423971977,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.4,
+                    "Avg. citations": 45.2,
+                    "Avg. norm. citations": 4.0329
+                }
+            },
+            {
+                "id": 10,
+                "label": "comparative analysis",
+                "x": 0.08056240241272741,
+                "y": 0.7030530361399278,
+                "cluster": 8,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5,
+                    "Avg. citations": 3.3333,
+                    "Avg. norm. citations": 0.3765
+                }
+            },
+            {
+                "id": 11,
+                "label": "complex network",
+                "x": -1.1645582030242259,
+                "y": -0.18215327848124793,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.8333,
+                    "Avg. citations": 3.5,
+                    "Avg. norm. citations": 0.8093
+                }
+            },
+            {
+                "id": 12,
+                "label": "construction",
+                "x": -0.03107308141936459,
+                "y": 0.7095258729960698,
+                "cluster": 8,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4,
+                    "Avg. citations": 2.2,
+                    "Avg. norm. citations": 0.1778
+                }
+            },
+            {
+                "id": 13,
+                "label": "context",
+                "x": 0.03459536464797651,
+                "y": 0.38749133254107976,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 7
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5714,
+                    "Avg. citations": 3,
+                    "Avg. norm. citations": 0.5236
+                }
+            },
+            {
+                "id": 14,
+                "label": "convolutional neural network",
+                "x": 0.17345964638041553,
+                "y": -0.38578685420183506,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 16
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.0625,
+                    "Avg. citations": 17.0625,
+                    "Avg. norm. citations": 1.4994
+                }
+            },
+            {
+                "id": 15,
+                "label": "covid",
+                "x": -0.4522344925528115,
+                "y": -0.09730583358364354,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 35
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.7143,
+                    "Avg. citations": 4.9714,
+                    "Avg. norm. citations": 2.3207
+                }
+            },
+            {
+                "id": 16,
+                "label": "dado",
+                "x": 0.9775649674447365,
+                "y": -0.3303507633845676,
+                "cluster": 6,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.8,
+                    "Avg. citations": 0,
+                    "Avg. norm. citations": 0
+                }
+            },
+            {
+                "id": 17,
+                "label": "deep learning",
+                "x": -0.3454175044315044,
+                "y": -0.30744016108019007,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.2222,
+                    "Avg. citations": 26.3333,
+                    "Avg. norm. citations": 3.56
+                }
+            },
+            {
+                "id": 19,
+                "label": "diagnosis",
+                "x": -0.05482939948501041,
+                "y": -0.46939186641769115,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 17
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5882,
+                    "Avg. citations": 7.2941,
+                    "Avg. norm. citations": 1.9749
+                }
+            },
+            {
+                "id": 20,
+                "label": "dynamic",
+                "x": -0.9490915207063482,
+                "y": -0.2259026934943055,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.6667,
+                    "Avg. citations": 7.6667,
+                    "Avg. norm. citations": 1.1142
+                }
+            },
+            {
+                "id": 21,
+                "label": "effect",
+                "x": -0.615752236572276,
+                "y": -0.31165543962688114,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 24
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2917,
+                    "Avg. citations": 6.625,
+                    "Avg. norm. citations": 0.8791
+                }
+            },
+            {
+                "id": 22,
+                "label": "ensino",
+                "x": 1.5227875045824113,
+                "y": -0.482676529824034,
+                "cluster": 6,
+                "weights": {
+                    "Occurrences": 7
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.8571,
+                    "Avg. citations": 0.1429,
+                    "Avg. norm. citations": 0.0138
+                }
+            },
+            {
+                "id": 23,
+                "label": "evidence",
+                "x": -0.844647315482744,
+                "y": -0.27819101247521,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.8889,
+                    "Avg. citations": 3.6667,
+                    "Avg. norm. citations": 1.1252
+                }
+            },
+            {
+                "id": 24,
+                "label": "evolution",
+                "x": 0.34547531135962317,
+                "y": 0.5651347777982224,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 10
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.5,
+                    "Avg. citations": 19.4,
+                    "Avg. norm. citations": 1.7635
+                }
+            },
+            {
+                "id": 25,
+                "label": "experiment",
+                "x": -0.7596097847706698,
+                "y": -0.5604623430438284,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 7
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4286,
+                    "Avg. citations": 3,
+                    "Avg. norm. citations": 0.6396
+                }
+            },
+            {
+                "id": 26,
+                "label": "feature",
+                "x": 0.22007268605572128,
+                "y": -0.07658193921862128,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 14
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1429,
+                    "Avg. citations": 18.9286,
+                    "Avg. norm. citations": 2.4646
+                }
+            },
+            {
+                "id": 27,
+                "label": "fog",
+                "x": 0.5151265407312986,
+                "y": 0.5629565257897244,
+                "cluster": 8,
+                "weights": {
+                    "Occurrences": 11
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1818,
+                    "Avg. citations": 26.9091,
+                    "Avg. norm. citations": 2.7528
+                }
+            },
+            {
+                "id": 28,
+                "label": "fuzzy rule",
+                "x": -0.7192995234744325,
+                "y": 0.9333495507588199,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.3333,
+                    "Avg. citations": 41.3333,
+                    "Avg. norm. citations": 3.5756
+                }
+            },
+            {
+                "id": 29,
+                "label": "genetic algorithm",
+                "x": -0.04640613872939901,
+                "y": -0.877634064042427,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.7778,
+                    "Avg. citations": 7.4444,
+                    "Avg. norm. citations": 0.9143
+                }
+            },
+            {
+                "id": 30,
+                "label": "guest editorial",
+                "x": -0.010169651905565104,
+                "y": 0.10248853493055662,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2020,
+                    "Avg. citations": 0.5,
+                    "Avg. norm. citations": 0.4825
+                }
+            },
+            {
+                "id": 31,
+                "label": "histological image",
+                "x": -0.043831900923086024,
+                "y": -1.0917007441671738,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 7
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.5714,
+                    "Avg. citations": 9,
+                    "Avg. norm. citations": 0.8183
+                }
+            },
+            {
+                "id": 32,
+                "label": "impact",
+                "x": -0.7887057061929555,
+                "y": -0.38877857048443976,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 17
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3529,
+                    "Avg. citations": 3.8824,
+                    "Avg. norm. citations": 0.6789
+                }
+            },
+            {
+                "id": 33,
+                "label": "individual",
+                "x": -0.7798886276316271,
+                "y": -0.8167169949179666,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.4444,
+                    "Avg. citations": 11.1111,
+                    "Avg. norm. citations": 1.852
+                }
+            },
+            {
+                "id": 34,
+                "label": "industrial internet",
+                "x": 0.3255853246174419,
+                "y": -0.14870273087185604,
+                "cluster": 9,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 66.4,
+                    "Avg. norm. citations": 8.1688
+                }
+            },
+            {
+                "id": 35,
+                "label": "influence",
+                "x": -0.41850196307632953,
+                "y": -0.7624824418127057,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2020,
+                    "Avg. citations": 1.1667,
+                    "Avg. norm. citations": 0.1969
+                }
+            },
+            {
+                "id": 36,
+                "label": "infrastructure",
+                "x": -0.2953531112009583,
+                "y": 0.5563436089191469,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 13
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 11.1538,
+                    "Avg. norm. citations": 1.2762
+                }
+            },
+            {
+                "id": 37,
+                "label": "internet",
+                "x": 0.4380927763637431,
+                "y": -0.07349433265557268,
+                "cluster": 7,
+                "weights": {
+                    "Occurrences": 57
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.386,
+                    "Avg. citations": 22.4211,
+                    "Avg. norm. citations": 2.6423
+                }
+            },
+            {
+                "id": 38,
+                "label": "life",
+                "x": -0.5221867686192697,
+                "y": -0.5767986916636642,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.1667,
+                    "Avg. citations": 7,
+                    "Avg. norm. citations": 0.5912
+                }
+            },
+            {
+                "id": 39,
+                "label": "literature review",
+                "x": 0.42344771260528,
+                "y": -0.40792069705200085,
+                "cluster": 9,
+                "weights": {
+                    "Occurrences": 8
+                },
+                "scores": {
+                    "Avg. pub. year": 2020,
+                    "Avg. citations": 4.5,
+                    "Avg. norm. citations": 2.9942
+                }
+            },
+            {
+                "id": 40,
+                "label": "modelo",
+                "x": 1.2451032037216063,
+                "y": -0.4120332934620229,
+                "cluster": 6,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.6,
+                    "Avg. citations": 0.2,
+                    "Avg. norm. citations": 0.0193
+                }
+            },
+            {
+                "id": 41,
+                "label": "opportunity",
+                "x": -0.29681752057874095,
+                "y": -0.5906290235939613,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5,
+                    "Avg. citations": 8.1667,
+                    "Avg. norm. citations": 0.8535
+                }
+            },
+            {
+                "id": 42,
+                "label": "overview",
+                "x": -0.05934823999052825,
+                "y": -0.3420339330255625,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3333,
+                    "Avg. citations": 7.6667,
+                    "Avg. norm. citations": 0.8088
+                }
+            },
+            {
+                "id": 43,
+                "label": "partir",
+                "x": 1.1269937589891605,
+                "y": -0.2697818262668404,
+                "cluster": 6,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.2,
+                    "Avg. citations": 0.4,
+                    "Avg. norm. citations": 0.1064
+                }
+            },
+            {
+                "id": 44,
+                "label": "patient",
+                "x": -0.25617600062374996,
+                "y": -0.363168694145719,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 11
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2727,
+                    "Avg. citations": 8.7273,
+                    "Avg. norm. citations": 2.078
+                }
+            },
+            {
+                "id": 45,
+                "label": "performance evaluation",
+                "x": 0.4038992686326741,
+                "y": 0.7894050904018289,
+                "cluster": 8,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.6667,
+                    "Avg. citations": 15.7778,
+                    "Avg. norm. citations": 1.5009
+                }
+            },
+            {
+                "id": 46,
+                "label": "privacy",
+                "x": 0.4281461971880003,
+                "y": 0.24223196750106424,
+                "cluster": 7,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 13,
+                    "Avg. norm. citations": 2.3298
+                }
+            },
+            {
+                "id": 47,
+                "label": "proposal",
+                "x": -0.412493206070802,
+                "y": 0.7639781612922234,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 12
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.3333,
+                    "Avg. citations": 5.3333,
+                    "Avg. norm. citations": 0.5924
+                }
+            },
+            {
+                "id": 48,
+                "label": "quality",
+                "x": -0.24100280461389492,
+                "y": -0.5098324395706795,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 13
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3077,
+                    "Avg. citations": 6.8462,
+                    "Avg. norm. citations": 0.9474
+                }
+            },
+            {
+                "id": 49,
+                "label": "quantification",
+                "x": -0.24812363590762967,
+                "y": -0.011572709802424969,
+                "cluster": 3,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.6667,
+                    "Avg. citations": 6.3333,
+                    "Avg. norm. citations": 0.7525
+                }
+            },
+            {
+                "id": 51,
+                "label": "risk",
+                "x": -0.5998414837203884,
+                "y": -0.6077143641440224,
+                "cluster": 1,
+                "weights": {
+                    "Occurrences": 17
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.7647,
+                    "Avg. citations": 15.7059,
+                    "Avg. norm. citations": 2.2298
+                }
+            },
+            {
+                "id": 52,
+                "label": "role",
+                "x": -0.8944913618640341,
+                "y": -0.08799848683454375,
+                "cluster": 2,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.6667,
+                    "Avg. citations": 7.5556,
+                    "Avg. norm. citations": 2.3499
+                }
+            },
+            {
+                "id": 53,
+                "label": "scheme",
+                "x": 0.1688114709152534,
+                "y": 0.3736307443001381,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 32
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.0625,
+                    "Avg. citations": 20.7812,
+                    "Avg. norm. citations": 2.3771
+                }
+            },
+            {
+                "id": 54,
+                "label": "security",
+                "x": 0.14017181245682986,
+                "y": 0.06824986282697244,
+                "cluster": 7,
+                "weights": {
+                    "Occurrences": 11
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4545,
+                    "Avg. citations": 7.1818,
+                    "Avg. norm. citations": 1.2118
+                }
+            },
+            {
+                "id": 55,
+                "label": "service",
+                "x": -0.6483727553250146,
+                "y": 0.5825869889219085,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 11
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2727,
+                    "Avg. citations": 4.0909,
+                    "Avg. norm. citations": 0.4301
+                }
+            },
+            {
+                "id": 56,
+                "label": "smart grid",
+                "x": 0.032697093411864976,
+                "y": 0.538344157865806,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 11
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 22.3636,
+                    "Avg. norm. citations": 2.8242
+                }
+            },
+            {
+                "id": 57,
+                "label": "social internet",
+                "x": 0.49062297000466487,
+                "y": 0.27678669537584055,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.8,
+                    "Avg. citations": 22.2,
+                    "Avg. norm. citations": 1.4749
+                }
+            },
+            {
+                "id": 58,
+                "label": "special issue",
+                "x": 0.16671866569870128,
+                "y": 0.2116618750254677,
+                "cluster": 7,
+                "weights": {
+                    "Occurrences": 8
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 0.75,
+                    "Avg. norm. citations": 0.0535
+                }
+            },
+            {
+                "id": 59,
+                "label": "systematic literature review",
+                "x": 0.04367871451226908,
+                "y": 0.6286996676945283,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.8,
+                    "Avg. citations": 3.2,
+                    "Avg. norm. citations": 0.3499
+                }
+            },
+            {
+                "id": 60,
+                "label": "systematic review",
+                "x": 0.5707864517904871,
+                "y": 0.5945780360180912,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 9
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.8889,
+                    "Avg. citations": 7.1111,
+                    "Avg. norm. citations": 0.9689
+                }
+            },
+            {
+                "id": 61,
+                "label": "temporal analysis",
+                "x": 0.6877464834340355,
+                "y": -0.23544581974685344,
+                "cluster": 6,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.8,
+                    "Avg. citations": 1.8,
+                    "Avg. norm. citations": 0.1734
+                }
+            },
+            {
+                "id": 62,
+                "label": "theory",
+                "x": -0.07637831279531314,
+                "y": 0.4245378270289403,
+                "cluster": 8,
+                "weights": {
+                    "Occurrences": 13
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.9231,
+                    "Avg. citations": 8.3846,
+                    "Avg. norm. citations": 1.3365
+                }
+            },
+            {
+                "id": 63,
+                "label": "thing",
+                "x": 0.2986782216437542,
+                "y": 0.2182657803560983,
+                "cluster": 7,
+                "weights": {
+                    "Occurrences": 44
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2045,
+                    "Avg. citations": 25,
+                    "Avg. norm. citations": 2.4061
+                }
+            },
+            {
+                "id": 64,
+                "label": "things application",
+                "x": 0.19494459810230974,
+                "y": -0.44078541109641745,
+                "cluster": 9,
+                "weights": {
+                    "Occurrences": 5
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.8,
+                    "Avg. citations": 18.8,
+                    "Avg. norm. citations": 5.5366
+                }
+            },
+            {
+                "id": 65,
+                "label": "uso",
+                "x": 1.4395944546673627,
+                "y": -0.36603661976546187,
+                "cluster": 6,
+                "weights": {
+                    "Occurrences": 7
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1429,
+                    "Avg. citations": 0,
+                    "Avg. norm. citations": 0
+                }
+            },
+            {
+                "id": 66,
+                "label": "vehicular network",
+                "x": -0.11278530389435347,
+                "y": 0.2883221064747441,
+                "cluster": 7,
+                "weights": {
+                    "Occurrences": 6
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3333,
+                    "Avg. citations": 10.8333,
+                    "Avg. norm. citations": 1.5218
+                }
+            },
+            {
+                "id": 67,
+                "label": "web",
+                "x": 0.3060728153231935,
+                "y": 0.6587005596133162,
+                "cluster": 4,
+                "weights": {
+                    "Occurrences": 10
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2,
+                    "Avg. citations": 1.1,
+                    "Avg. norm. citations": 0.1232
+                }
+            },
+            {
+                "id": 68,
+                "label": "wireless sensor network",
+                "x": -0.11208217743416733,
+                "y": 0.7245386981665689,
+                "cluster": 5,
+                "weights": {
+                    "Occurrences": 13
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.2308,
+                    "Avg. citations": 9.5385,
+                    "Avg. norm. citations": 0.7697
+                }
+            }
+        ],
+        "links": [
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "strength": 1
+            },
+            {
+                "source_id": 1,
+                "target_id": 34,
+                "strength": 1
+            },
+            {
+                "source_id": 1,
+                "target_id": 37,
+                "strength": 1
+            },
+            {
+                "source_id": 1,
+                "target_id": 42,
+                "strength": 1
+            },
+            {
+                "source_id": 1,
+                "target_id": 58,
+                "strength": 1
+            },
+            {
+                "source_id": 1,
+                "target_id": 63,
+                "strength": 2
+            },
+            {
+                "source_id": 1,
+                "target_id": 66,
+                "strength": 1
+            },
+            {
+                "source_id": 2,
+                "target_id": 10,
+                "strength": 1
+            },
+            {
+                "source_id": 2,
+                "target_id": 12,
+                "strength": 1
+            },
+            {
+                "source_id": 2,
+                "target_id": 45,
+                "strength": 1
+            },
+            {
+                "source_id": 2,
+                "target_id": 62,
+                "strength": 1
+            },
+            {
+                "source_id": 3,
+                "target_id": 26,
+                "strength": 1
+            },
+            {
+                "source_id": 4,
+                "target_id": 22,
+                "strength": 2
+            },
+            {
+                "source_id": 4,
+                "target_id": 65,
+                "strength": 2
+            },
+            {
+                "source_id": 5,
+                "target_id": 26,
+                "strength": 1
+            },
+            {
+                "source_id": 5,
+                "target_id": 53,
+                "strength": 1
+            },
+            {
+                "source_id": 5,
+                "target_id": 57,
+                "strength": 1
+            },
+            {
+                "source_id": 5,
+                "target_id": 60,
+                "strength": 2
+            },
+            {
+                "source_id": 5,
+                "target_id": 63,
+                "strength": 1
+            },
+            {
+                "source_id": 6,
+                "target_id": 15,
+                "strength": 3
+            },
+            {
+                "source_id": 7,
+                "target_id": 15,
+                "strength": 2
+            },
+            {
+                "source_id": 7,
+                "target_id": 52,
+                "strength": 1
+            },
+            {
+                "source_id": 7,
+                "target_id": 55,
+                "strength": 1
+            },
+            {
+                "source_id": 8,
+                "target_id": 15,
+                "strength": 1
+            },
+            {
+                "source_id": 8,
+                "target_id": 17,
+                "strength": 1
+            },
+            {
+                "source_id": 8,
+                "target_id": 32,
+                "strength": 2
+            },
+            {
+                "source_id": 8,
+                "target_id": 48,
+                "strength": 1
+            },
+            {
+                "source_id": 8,
+                "target_id": 52,
+                "strength": 1
+            },
+            {
+                "source_id": 9,
+                "target_id": 28,
+                "strength": 5
+            },
+            {
+                "source_id": 9,
+                "target_id": 47,
+                "strength": 1
+            },
+            {
+                "source_id": 10,
+                "target_id": 53,
+                "strength": 1
+            },
+            {
+                "source_id": 10,
+                "target_id": 62,
+                "strength": 1
+            },
+            {
+                "source_id": 10,
+                "target_id": 67,
+                "strength": 1
+            },
+            {
+                "source_id": 11,
+                "target_id": 20,
+                "strength": 2
+            },
+            {
+                "source_id": 11,
+                "target_id": 52,
+                "strength": 1
+            },
+            {
+                "source_id": 12,
+                "target_id": 62,
+                "strength": 1
+            },
+            {
+                "source_id": 13,
+                "target_id": 15,
+                "strength": 1
+            },
+            {
+                "source_id": 13,
+                "target_id": 24,
+                "strength": 1
+            },
+            {
+                "source_id": 13,
+                "target_id": 30,
+                "strength": 1
+            },
+            {
+                "source_id": 13,
+                "target_id": 37,
+                "strength": 1
+            },
+            {
+                "source_id": 13,
+                "target_id": 59,
+                "strength": 1
+            },
+            {
+                "source_id": 13,
+                "target_id": 63,
+                "strength": 1
+            },
+            {
+                "source_id": 13,
+                "target_id": 67,
+                "strength": 1
+            },
+            {
+                "source_id": 14,
+                "target_id": 19,
+                "strength": 1
+            },
+            {
+                "source_id": 14,
+                "target_id": 26,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 17,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 19,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 20,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 23,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 26,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 30,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 32,
+                "strength": 2
+            },
+            {
+                "source_id": 15,
+                "target_id": 37,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 44,
+                "strength": 4
+            },
+            {
+                "source_id": 15,
+                "target_id": 49,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 51,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 52,
+                "strength": 1
+            },
+            {
+                "source_id": 15,
+                "target_id": 63,
+                "strength": 1
+            },
+            {
+                "source_id": 16,
+                "target_id": 40,
+                "strength": 1
+            },
+            {
+                "source_id": 16,
+                "target_id": 61,
+                "strength": 1
+            },
+            {
+                "source_id": 17,
+                "target_id": 19,
+                "strength": 1
+            },
+            {
+                "source_id": 17,
+                "target_id": 49,
+                "strength": 1
+            },
+            {
+                "source_id": 19,
+                "target_id": 26,
+                "strength": 1
+            },
+            {
+                "source_id": 19,
+                "target_id": 29,
+                "strength": 1
+            },
+            {
+                "source_id": 19,
+                "target_id": 42,
+                "strength": 1
+            },
+            {
+                "source_id": 20,
+                "target_id": 21,
+                "strength": 1
+            },
+            {
+                "source_id": 20,
+                "target_id": 52,
+                "strength": 1
+            },
+            {
+                "source_id": 21,
+                "target_id": 23,
+                "strength": 1
+            },
+            {
+                "source_id": 21,
+                "target_id": 25,
+                "strength": 1
+            },
+            {
+                "source_id": 21,
+                "target_id": 38,
+                "strength": 1
+            },
+            {
+                "source_id": 21,
+                "target_id": 49,
+                "strength": 1
+            },
+            {
+                "source_id": 21,
+                "target_id": 51,
+                "strength": 2
+            },
+            {
+                "source_id": 22,
+                "target_id": 40,
+                "strength": 1
+            },
+            {
+                "source_id": 22,
+                "target_id": 65,
+                "strength": 1
+            },
+            {
+                "source_id": 23,
+                "target_id": 32,
+                "strength": 1
+            },
+            {
+                "source_id": 24,
+                "target_id": 56,
+                "strength": 1
+            },
+            {
+                "source_id": 24,
+                "target_id": 57,
+                "strength": 1
+            },
+            {
+                "source_id": 24,
+                "target_id": 60,
+                "strength": 1
+            },
+            {
+                "source_id": 24,
+                "target_id": 67,
+                "strength": 2
+            },
+            {
+                "source_id": 25,
+                "target_id": 38,
+                "strength": 1
+            },
+            {
+                "source_id": 26,
+                "target_id": 44,
+                "strength": 1
+            },
+            {
+                "source_id": 26,
+                "target_id": 49,
+                "strength": 1
+            },
+            {
+                "source_id": 26,
+                "target_id": 57,
+                "strength": 1
+            },
+            {
+                "source_id": 26,
+                "target_id": 61,
+                "strength": 1
+            },
+            {
+                "source_id": 26,
+                "target_id": 62,
+                "strength": 1
+            },
+            {
+                "source_id": 26,
+                "target_id": 63,
+                "strength": 1
+            },
+            {
+                "source_id": 27,
+                "target_id": 37,
+                "strength": 1
+            },
+            {
+                "source_id": 27,
+                "target_id": 45,
+                "strength": 1
+            },
+            {
+                "source_id": 27,
+                "target_id": 63,
+                "strength": 2
+            },
+            {
+                "source_id": 28,
+                "target_id": 47,
+                "strength": 1
+            },
+            {
+                "source_id": 28,
+                "target_id": 55,
+                "strength": 1
+            },
+            {
+                "source_id": 29,
+                "target_id": 31,
+                "strength": 2
+            },
+            {
+                "source_id": 30,
+                "target_id": 37,
+                "strength": 2
+            },
+            {
+                "source_id": 30,
+                "target_id": 63,
+                "strength": 3
+            },
+            {
+                "source_id": 32,
+                "target_id": 51,
+                "strength": 1
+            },
+            {
+                "source_id": 33,
+                "target_id": 51,
+                "strength": 1
+            },
+            {
+                "source_id": 34,
+                "target_id": 39,
+                "strength": 1
+            },
+            {
+                "source_id": 34,
+                "target_id": 53,
+                "strength": 1
+            },
+            {
+                "source_id": 34,
+                "target_id": 63,
+                "strength": 3
+            },
+            {
+                "source_id": 34,
+                "target_id": 64,
+                "strength": 1
+            },
+            {
+                "source_id": 35,
+                "target_id": 41,
+                "strength": 1
+            },
+            {
+                "source_id": 35,
+                "target_id": 48,
+                "strength": 1
+            },
+            {
+                "source_id": 35,
+                "target_id": 51,
+                "strength": 1
+            },
+            {
+                "source_id": 36,
+                "target_id": 47,
+                "strength": 1
+            },
+            {
+                "source_id": 36,
+                "target_id": 53,
+                "strength": 1
+            },
+            {
+                "source_id": 36,
+                "target_id": 55,
+                "strength": 2
+            },
+            {
+                "source_id": 36,
+                "target_id": 56,
+                "strength": 2
+            },
+            {
+                "source_id": 36,
+                "target_id": 66,
+                "strength": 2
+            },
+            {
+                "source_id": 36,
+                "target_id": 68,
+                "strength": 2
+            },
+            {
+                "source_id": 37,
+                "target_id": 42,
+                "strength": 1
+            },
+            {
+                "source_id": 37,
+                "target_id": 43,
+                "strength": 1
+            },
+            {
+                "source_id": 37,
+                "target_id": 46,
+                "strength": 2
+            },
+            {
+                "source_id": 37,
+                "target_id": 48,
+                "strength": 1
+            },
+            {
+                "source_id": 37,
+                "target_id": 53,
+                "strength": 7
+            },
+            {
+                "source_id": 37,
+                "target_id": 54,
+                "strength": 5
+            },
+            {
+                "source_id": 37,
+                "target_id": 58,
+                "strength": 2
+            },
+            {
+                "source_id": 37,
+                "target_id": 63,
+                "strength": 34
+            },
+            {
+                "source_id": 37,
+                "target_id": 64,
+                "strength": 4
+            },
+            {
+                "source_id": 38,
+                "target_id": 44,
+                "strength": 1
+            },
+            {
+                "source_id": 38,
+                "target_id": 48,
+                "strength": 3
+            },
+            {
+                "source_id": 39,
+                "target_id": 64,
+                "strength": 1
+            },
+            {
+                "source_id": 41,
+                "target_id": 42,
+                "strength": 1
+            },
+            {
+                "source_id": 41,
+                "target_id": 51,
+                "strength": 1
+            },
+            {
+                "source_id": 42,
+                "target_id": 54,
+                "strength": 1
+            },
+            {
+                "source_id": 43,
+                "target_id": 65,
+                "strength": 1
+            },
+            {
+                "source_id": 44,
+                "target_id": 48,
+                "strength": 1
+            },
+            {
+                "source_id": 44,
+                "target_id": 51,
+                "strength": 1
+            },
+            {
+                "source_id": 46,
+                "target_id": 53,
+                "strength": 2
+            },
+            {
+                "source_id": 46,
+                "target_id": 54,
+                "strength": 2
+            },
+            {
+                "source_id": 46,
+                "target_id": 58,
+                "strength": 1
+            },
+            {
+                "source_id": 46,
+                "target_id": 63,
+                "strength": 1
+            },
+            {
+                "source_id": 47,
+                "target_id": 55,
+                "strength": 1
+            },
+            {
+                "source_id": 47,
+                "target_id": 62,
+                "strength": 1
+            },
+            {
+                "source_id": 47,
+                "target_id": 68,
+                "strength": 1
+            },
+            {
+                "source_id": 48,
+                "target_id": 64,
+                "strength": 1
+            },
+            {
+                "source_id": 49,
+                "target_id": 62,
+                "strength": 1
+            },
+            {
+                "source_id": 53,
+                "target_id": 54,
+                "strength": 1
+            },
+            {
+                "source_id": 53,
+                "target_id": 56,
+                "strength": 3
+            },
+            {
+                "source_id": 53,
+                "target_id": 63,
+                "strength": 2
+            },
+            {
+                "source_id": 53,
+                "target_id": 68,
+                "strength": 2
+            },
+            {
+                "source_id": 54,
+                "target_id": 56,
+                "strength": 1
+            },
+            {
+                "source_id": 54,
+                "target_id": 58,
+                "strength": 1
+            },
+            {
+                "source_id": 54,
+                "target_id": 63,
+                "strength": 1
+            },
+            {
+                "source_id": 56,
+                "target_id": 68,
+                "strength": 2
+            },
+            {
+                "source_id": 57,
+                "target_id": 63,
+                "strength": 4
+            },
+            {
+                "source_id": 58,
+                "target_id": 63,
+                "strength": 2
+            },
+            {
+                "source_id": 58,
+                "target_id": 66,
+                "strength": 1
+            },
+            {
+                "source_id": 60,
+                "target_id": 67,
+                "strength": 1
+            },
+            {
+                "source_id": 63,
+                "target_id": 67,
+                "strength": 1
+            }
+        ]
+    }
+}

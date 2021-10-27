@@ -1,0 +1,1385 @@
+{
+    "network": {
+        "items": [
+            {
+                "id": 83,
+                "label": "al-muhtadi, jalal",
+                "x": -0.10370057249818304,
+                "y": -0.5536452951540253,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 21,
+                    "Citations": 639,
+                    "Norm. citations": 58.0498
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.7143,
+                    "Avg. citations": 30.4286,
+                    "Avg. norm. citations": 2.7643
+                }
+            },
+            {
+                "id": 349,
+                "label": "aujla, gagangeet singh",
+                "x": 0.9687411456746643,
+                "y": 0.03319880180640476,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 427,
+                    "Norm. citations": 38.2155
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.3333,
+                    "Avg. citations": 71.1667,
+                    "Avg. norm. citations": 6.3692
+                }
+            },
+            {
+                "id": 1070,
+                "label": "chattopadhyay, samiran",
+                "x": 1.1311729980923175,
+                "y": -0.2912529336732587,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 93,
+                    "Norm. citations": 13.0753
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4,
+                    "Avg. citations": 18.6,
+                    "Avg. norm. citations": 2.6151
+                }
+            },
+            {
+                "id": 1464,
+                "label": "das, ashok kumar",
+                "x": 0.5826563735203361,
+                "y": -0.014529081822492153,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 28,
+                    "Citations": 791,
+                    "Norm. citations": 121.3772
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.25,
+                    "Avg. citations": 28.25,
+                    "Avg. norm. citations": 4.3349
+                }
+            },
+            {
+                "id": 1491,
+                "label": "de albuquerque, victor hugo c.",
+                "x": -0.26323110880547446,
+                "y": -0.036479577932294484,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 23,
+                    "Citations": 746,
+                    "Norm. citations": 99.4214
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1304,
+                    "Avg. citations": 32.4348,
+                    "Avg. norm. citations": 4.3227
+                }
+            },
+            {
+                "id": 2222,
+                "label": "filho, raimir holanda",
+                "x": -1.021727208313173,
+                "y": -0.315121843543431,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 57,
+                    "Norm. citations": 5.7191
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.6,
+                    "Avg. citations": 11.4,
+                    "Avg. norm. citations": 1.1438
+                }
+            },
+            {
+                "id": 2333,
+                "label": "furtado, vasco",
+                "x": -0.07910742553708394,
+                "y": -0.24563657075579196,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 9,
+                    "Citations": 142,
+                    "Norm. citations": 14.049
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 15.7778,
+                    "Avg. norm. citations": 1.561
+                }
+            },
+            {
+                "id": 2391,
+                "label": "garg, sahil",
+                "x": 0.7210947755582986,
+                "y": 0.7042265815062395,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 395,
+                    "Norm. citations": 40.2188
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 65.8333,
+                    "Avg. norm. citations": 6.7031
+                }
+            },
+            {
+                "id": 2617,
+                "label": "guizani, mohsen",
+                "x": 0.4194786422100024,
+                "y": 0.9284516647498079,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 8,
+                    "Citations": 441,
+                    "Norm. citations": 46.3514
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.625,
+                    "Avg. citations": 55.125,
+                    "Avg. norm. citations": 5.7939
+                }
+            },
+            {
+                "id": 2621,
+                "label": "gupta, deepak",
+                "x": -0.14071524327966395,
+                "y": 0.5541762243842461,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 23,
+                    "Citations": 441,
+                    "Norm. citations": 68.2754
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5217,
+                    "Avg. citations": 19.1739,
+                    "Avg. norm. citations": 2.9685
+                }
+            },
+            {
+                "id": 2798,
+                "label": "islam, saif ul",
+                "x": 0.34450939457631014,
+                "y": 0.5010483722102133,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 7,
+                    "Citations": 55,
+                    "Norm. citations": 14.8406
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.2857,
+                    "Avg. citations": 7.8571,
+                    "Avg. norm. citations": 2.1201
+                }
+            },
+            {
+                "id": 2976,
+                "label": "khanna, ashish",
+                "x": -0.6800020999274787,
+                "y": -0.24986275432914412,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 21,
+                    "Citations": 475,
+                    "Norm. citations": 68.5062
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.381,
+                    "Avg. citations": 22.619,
+                    "Avg. norm. citations": 3.2622
+                }
+            },
+            {
+                "id": 3022,
+                "label": "korotaev, valery",
+                "x": 0.2448147237044463,
+                "y": -0.13307045716948537,
+                "cluster": 6,
+                "weights": {
+                    "Documents": 10,
+                    "Citations": 232,
+                    "Norm. citations": 28.4777
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.9,
+                    "Avg. citations": 23.2,
+                    "Avg. norm. citations": 2.8478
+                }
+            },
+            {
+                "id": 3023,
+                "label": "korotaev, valery v.",
+                "x": -0.5300785937220254,
+                "y": -0.011694620909414278,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 7,
+                    "Citations": 256,
+                    "Norm. citations": 31.5647
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2857,
+                    "Avg. citations": 36.5714,
+                    "Avg. norm. citations": 4.5092
+                }
+            },
+            {
+                "id": 3040,
+                "label": "kozlov, sergei",
+                "x": 0.1114519114165575,
+                "y": -0.8992475220293591,
+                "cluster": 6,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 59,
+                    "Norm. citations": 8.6523
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.6667,
+                    "Avg. citations": 9.8333,
+                    "Avg. norm. citations": 1.442
+                }
+            },
+            {
+                "id": 3041,
+                "label": "kozlov, sergei a.",
+                "x": 0.32771627570634715,
+                "y": 0.18371158745313934,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 9,
+                    "Citations": 140,
+                    "Norm. citations": 15.1648
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4444,
+                    "Avg. citations": 15.5556,
+                    "Avg. norm. citations": 1.685
+                }
+            },
+            {
+                "id": 3065,
+                "label": "kumar, neeraj",
+                "x": 0.16627299116980138,
+                "y": -0.41974744572755857,
+                "cluster": 6,
+                "weights": {
+                    "Documents": 34,
+                    "Citations": 1428,
+                    "Norm. citations": 146.6359
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.3529,
+                    "Avg. citations": 42,
+                    "Avg. norm. citations": 4.3128
+                }
+            },
+            {
+                "id": 3202,
+                "label": "li, xiong",
+                "x": 0.8022140252410689,
+                "y": -0.298670033476083,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 134,
+                    "Norm. citations": 16.3711
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 26.8,
+                    "Avg. norm. citations": 3.2742
+                }
+            },
+            {
+                "id": 3861,
+                "label": "moreira, mário w.l.",
+                "x": -0.4378796931865472,
+                "y": 0.2798800197177551,
+                "cluster": 6,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 50,
+                    "Norm. citations": 4.6021
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.6,
+                    "Avg. citations": 10,
+                    "Avg. norm. citations": 0.9204
+                }
+            },
+            {
+                "id": 3913,
+                "label": "mumtaz, shahid",
+                "x": 0.8220923831960931,
+                "y": 0.36400431783540105,
+                "cluster": 8,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 185,
+                    "Norm. citations": 25.4286
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4,
+                    "Avg. citations": 37,
+                    "Avg. norm. citations": 5.0857
+                }
+            },
+            {
+                "id": 4034,
+                "label": "ning, zhaolong",
+                "x": -0.34247758476896717,
+                "y": 0.966704913041455,
+                "cluster": 7,
+                "weights": {
+                    "Documents": 8,
+                    "Citations": 267,
+                    "Norm. citations": 45.5194
+                },
+                "scores": {
+                    "Avg. pub. year": 2020,
+                    "Avg. citations": 33.375,
+                    "Avg. norm. citations": 5.6899
+                }
+            },
+            {
+                "id": 4299,
+                "label": "park, youngho",
+                "x": 0.8826916134377352,
+                "y": -0.6607787680532022,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 12,
+                    "Citations": 231,
+                    "Norm. citations": 36.7075
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3333,
+                    "Avg. citations": 19.25,
+                    "Avg. norm. citations": 3.059
+                }
+            },
+            {
+                "id": 4632,
+                "label": "rabêlo, ricardo a. l.",
+                "x": -0.4079334716658563,
+                "y": -0.5811541546659834,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 7,
+                    "Citations": 88,
+                    "Norm. citations": 18.3949
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5714,
+                    "Avg. citations": 12.5714,
+                    "Avg. norm. citations": 2.6278
+                }
+            },
+            {
+                "id": 4856,
+                "label": "rodrigues, joel",
+                "x": -0.7259429491362888,
+                "y": 0.24003062719499638,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 12,
+                    "Citations": 203,
+                    "Norm. citations": 18.5179
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.3333,
+                    "Avg. citations": 16.9167,
+                    "Avg. norm. citations": 1.5432
+                }
+            },
+            {
+                "id": 4860,
+                "label": "rodrigues, joel j.p.c.",
+                "x": 0.0389247641194624,
+                "y": 0.04810682351651173,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 277,
+                    "Citations": 5275,
+                    "Norm. citations": 748.4258
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1769,
+                    "Avg. citations": 19.0433,
+                    "Avg. norm. citations": 2.7019
+                }
+            },
+            {
+                "id": 4999,
+                "label": "saleem, kashif",
+                "x": -0.17542336044488932,
+                "y": 0.23904984035186233,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 17,
+                    "Citations": 256,
+                    "Norm. citations": 27.3267
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 15.0588,
+                    "Avg. norm. citations": 1.6075
+                }
+            },
+            {
+                "id": 5037,
+                "label": "sangaiah, arun kumar",
+                "x": -0.3696187006030751,
+                "y": -0.30532103582973974,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 93,
+                    "Norm. citations": 12.2326
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.6,
+                    "Avg. citations": 18.6,
+                    "Avg. norm. citations": 2.4465
+                }
+            },
+            {
+                "id": 5040,
+                "label": "sankaranarayanan, suresh",
+                "x": 0.05994378378849963,
+                "y": 0.8909651094863813,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 42,
+                    "Norm. citations": 7.721
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.8333,
+                    "Avg. citations": 7,
+                    "Avg. norm. citations": 1.2868
+                }
+            },
+            {
+                "id": 5337,
+                "label": "silva, cristiano m.",
+                "x": -0.783787457944782,
+                "y": -0.5722541154598775,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 7,
+                    "Citations": 54,
+                    "Norm. citations": 8.6643
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.8571,
+                    "Avg. citations": 7.7143,
+                    "Avg. norm. citations": 1.2378
+                }
+            },
+            {
+                "id": 5517,
+                "label": "solic, petar",
+                "x": 0.0838570655709702,
+                "y": 0.35619047877693777,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 179,
+                    "Norm. citations": 28.5774
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.1667,
+                    "Avg. citations": 29.8333,
+                    "Avg. norm. citations": 4.7629
+                }
+            },
+            {
+                "id": 5703,
+                "label": "tanwar, sudeep",
+                "x": -0.42484268254763863,
+                "y": 0.6183176916204538,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 184,
+                    "Norm. citations": 18.2043
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4,
+                    "Avg. citations": 36.8,
+                    "Avg. norm. citations": 3.6409
+                }
+            },
+            {
+                "id": 5928,
+                "label": "vasilakos, athanasios v.",
+                "x": 0.4882139214313741,
+                "y": -0.36011841835445085,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 251,
+                    "Norm. citations": 23.3038
+                },
+                "scores": {
+                    "Avg. pub. year": 2018,
+                    "Avg. citations": 50.2,
+                    "Avg. norm. citations": 4.6608
+                }
+            },
+            {
+                "id": 5980,
+                "label": "viana, windson",
+                "x": -0.5662847272841317,
+                "y": -0.8677466448441892,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 12,
+                    "Citations": 26,
+                    "Norm. citations": 3.866
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3333,
+                    "Avg. citations": 2.1667,
+                    "Avg. norm. citations": 0.3222
+                }
+            },
+            {
+                "id": 6063,
+                "label": "wang, xiaojie",
+                "x": -0.7718491765208636,
+                "y": 0.6440160031004857,
+                "cluster": 7,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 248,
+                    "Norm. citations": 26.3556
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4,
+                    "Avg. citations": 49.6,
+                    "Avg. norm. citations": 5.2711
+                }
+            },
+            {
+                "id": 6072,
+                "label": "wazid, mohammad",
+                "x": 0.5344630836757688,
+                "y": -0.7225790411468624,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 14,
+                    "Citations": 463,
+                    "Norm. citations": 63.1804
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2857,
+                    "Avg. citations": 33.0714,
+                    "Avg. norm. citations": 4.5129
+                }
+            },
+            {
+                "id": 6234,
+                "label": "zhu, chunsheng",
+                "x": -0.9057078159039322,
+                "y": -0.013168741875646362,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 8,
+                    "Citations": 203,
+                    "Norm. citations": 18.9324
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.375,
+                    "Avg. citations": 25.375,
+                    "Avg. norm. citations": 2.3666
+                }
+            }
+        ],
+        "links": [
+            {
+                "source_id": 83,
+                "target_id": 1464,
+                "strength": 3
+            },
+            {
+                "source_id": 83,
+                "target_id": 1491,
+                "strength": 7
+            },
+            {
+                "source_id": 83,
+                "target_id": 2333,
+                "strength": 3
+            },
+            {
+                "source_id": 83,
+                "target_id": 2621,
+                "strength": 4
+            },
+            {
+                "source_id": 83,
+                "target_id": 2976,
+                "strength": 4
+            },
+            {
+                "source_id": 83,
+                "target_id": 3022,
+                "strength": 6
+            },
+            {
+                "source_id": 83,
+                "target_id": 3023,
+                "strength": 5
+            },
+            {
+                "source_id": 83,
+                "target_id": 3040,
+                "strength": 1
+            },
+            {
+                "source_id": 83,
+                "target_id": 3041,
+                "strength": 2
+            },
+            {
+                "source_id": 83,
+                "target_id": 3065,
+                "strength": 4
+            },
+            {
+                "source_id": 83,
+                "target_id": 3861,
+                "strength": 1
+            },
+            {
+                "source_id": 83,
+                "target_id": 4632,
+                "strength": 9
+            },
+            {
+                "source_id": 83,
+                "target_id": 4856,
+                "strength": 2
+            },
+            {
+                "source_id": 83,
+                "target_id": 4860,
+                "strength": 38
+            },
+            {
+                "source_id": 83,
+                "target_id": 4999,
+                "strength": 5
+            },
+            {
+                "source_id": 83,
+                "target_id": 5037,
+                "strength": 2
+            },
+            {
+                "source_id": 83,
+                "target_id": 5517,
+                "strength": 6
+            },
+            {
+                "source_id": 83,
+                "target_id": 5980,
+                "strength": 1
+            },
+            {
+                "source_id": 349,
+                "target_id": 1464,
+                "strength": 2
+            },
+            {
+                "source_id": 349,
+                "target_id": 3041,
+                "strength": 1
+            },
+            {
+                "source_id": 349,
+                "target_id": 4860,
+                "strength": 3
+            },
+            {
+                "source_id": 349,
+                "target_id": 6072,
+                "strength": 1
+            },
+            {
+                "source_id": 1070,
+                "target_id": 1464,
+                "strength": 3
+            },
+            {
+                "source_id": 1070,
+                "target_id": 4299,
+                "strength": 2
+            },
+            {
+                "source_id": 1070,
+                "target_id": 4860,
+                "strength": 2
+            },
+            {
+                "source_id": 1070,
+                "target_id": 6072,
+                "strength": 1
+            },
+            {
+                "source_id": 1464,
+                "target_id": 1491,
+                "strength": 1
+            },
+            {
+                "source_id": 1464,
+                "target_id": 3022,
+                "strength": 1
+            },
+            {
+                "source_id": 1464,
+                "target_id": 3023,
+                "strength": 1
+            },
+            {
+                "source_id": 1464,
+                "target_id": 3065,
+                "strength": 10
+            },
+            {
+                "source_id": 1464,
+                "target_id": 4299,
+                "strength": 5
+            },
+            {
+                "source_id": 1464,
+                "target_id": 4860,
+                "strength": 23
+            },
+            {
+                "source_id": 1464,
+                "target_id": 5037,
+                "strength": 1
+            },
+            {
+                "source_id": 1464,
+                "target_id": 5517,
+                "strength": 1
+            },
+            {
+                "source_id": 1464,
+                "target_id": 5928,
+                "strength": 5
+            },
+            {
+                "source_id": 1464,
+                "target_id": 6072,
+                "strength": 13
+            },
+            {
+                "source_id": 1491,
+                "target_id": 2222,
+                "strength": 1
+            },
+            {
+                "source_id": 1491,
+                "target_id": 2333,
+                "strength": 2
+            },
+            {
+                "source_id": 1491,
+                "target_id": 2621,
+                "strength": 23
+            },
+            {
+                "source_id": 1491,
+                "target_id": 2976,
+                "strength": 22
+            },
+            {
+                "source_id": 1491,
+                "target_id": 3022,
+                "strength": 6
+            },
+            {
+                "source_id": 1491,
+                "target_id": 3023,
+                "strength": 4
+            },
+            {
+                "source_id": 1491,
+                "target_id": 3041,
+                "strength": 1
+            },
+            {
+                "source_id": 1491,
+                "target_id": 3065,
+                "strength": 2
+            },
+            {
+                "source_id": 1491,
+                "target_id": 4632,
+                "strength": 2
+            },
+            {
+                "source_id": 1491,
+                "target_id": 4856,
+                "strength": 3
+            },
+            {
+                "source_id": 1491,
+                "target_id": 4860,
+                "strength": 37
+            },
+            {
+                "source_id": 1491,
+                "target_id": 5037,
+                "strength": 1
+            },
+            {
+                "source_id": 1491,
+                "target_id": 5517,
+                "strength": 2
+            },
+            {
+                "source_id": 1491,
+                "target_id": 5980,
+                "strength": 1
+            },
+            {
+                "source_id": 2222,
+                "target_id": 4856,
+                "strength": 1
+            },
+            {
+                "source_id": 2222,
+                "target_id": 4860,
+                "strength": 1
+            },
+            {
+                "source_id": 2333,
+                "target_id": 2621,
+                "strength": 2
+            },
+            {
+                "source_id": 2333,
+                "target_id": 2798,
+                "strength": 1
+            },
+            {
+                "source_id": 2333,
+                "target_id": 2976,
+                "strength": 2
+            },
+            {
+                "source_id": 2333,
+                "target_id": 3022,
+                "strength": 2
+            },
+            {
+                "source_id": 2333,
+                "target_id": 3023,
+                "strength": 2
+            },
+            {
+                "source_id": 2333,
+                "target_id": 3065,
+                "strength": 1
+            },
+            {
+                "source_id": 2333,
+                "target_id": 4632,
+                "strength": 2
+            },
+            {
+                "source_id": 2333,
+                "target_id": 4856,
+                "strength": 2
+            },
+            {
+                "source_id": 2333,
+                "target_id": 4860,
+                "strength": 10
+            },
+            {
+                "source_id": 2333,
+                "target_id": 6234,
+                "strength": 1
+            },
+            {
+                "source_id": 2391,
+                "target_id": 3041,
+                "strength": 1
+            },
+            {
+                "source_id": 2391,
+                "target_id": 4860,
+                "strength": 1
+            },
+            {
+                "source_id": 2617,
+                "target_id": 2798,
+                "strength": 1
+            },
+            {
+                "source_id": 2617,
+                "target_id": 4860,
+                "strength": 2
+            },
+            {
+                "source_id": 2621,
+                "target_id": 2976,
+                "strength": 28
+            },
+            {
+                "source_id": 2621,
+                "target_id": 3022,
+                "strength": 6
+            },
+            {
+                "source_id": 2621,
+                "target_id": 3023,
+                "strength": 3
+            },
+            {
+                "source_id": 2621,
+                "target_id": 4856,
+                "strength": 4
+            },
+            {
+                "source_id": 2621,
+                "target_id": 4860,
+                "strength": 30
+            },
+            {
+                "source_id": 2621,
+                "target_id": 5703,
+                "strength": 1
+            },
+            {
+                "source_id": 2798,
+                "target_id": 3023,
+                "strength": 1
+            },
+            {
+                "source_id": 2798,
+                "target_id": 3065,
+                "strength": 2
+            },
+            {
+                "source_id": 2798,
+                "target_id": 4860,
+                "strength": 7
+            },
+            {
+                "source_id": 2798,
+                "target_id": 4999,
+                "strength": 1
+            },
+            {
+                "source_id": 2798,
+                "target_id": 5040,
+                "strength": 1
+            },
+            {
+                "source_id": 2798,
+                "target_id": 5517,
+                "strength": 1
+            },
+            {
+                "source_id": 2798,
+                "target_id": 5703,
+                "strength": 1
+            },
+            {
+                "source_id": 2798,
+                "target_id": 5928,
+                "strength": 1
+            },
+            {
+                "source_id": 2976,
+                "target_id": 3022,
+                "strength": 5
+            },
+            {
+                "source_id": 2976,
+                "target_id": 3023,
+                "strength": 3
+            },
+            {
+                "source_id": 2976,
+                "target_id": 4856,
+                "strength": 4
+            },
+            {
+                "source_id": 2976,
+                "target_id": 4860,
+                "strength": 30
+            },
+            {
+                "source_id": 2976,
+                "target_id": 5703,
+                "strength": 1
+            },
+            {
+                "source_id": 3022,
+                "target_id": 3023,
+                "strength": 4
+            },
+            {
+                "source_id": 3022,
+                "target_id": 3040,
+                "strength": 1
+            },
+            {
+                "source_id": 3022,
+                "target_id": 3065,
+                "strength": 1
+            },
+            {
+                "source_id": 3022,
+                "target_id": 3861,
+                "strength": 1
+            },
+            {
+                "source_id": 3022,
+                "target_id": 4632,
+                "strength": 4
+            },
+            {
+                "source_id": 3022,
+                "target_id": 4856,
+                "strength": 3
+            },
+            {
+                "source_id": 3022,
+                "target_id": 4860,
+                "strength": 21
+            },
+            {
+                "source_id": 3022,
+                "target_id": 4999,
+                "strength": 1
+            },
+            {
+                "source_id": 3022,
+                "target_id": 5517,
+                "strength": 2
+            },
+            {
+                "source_id": 3023,
+                "target_id": 3041,
+                "strength": 2
+            },
+            {
+                "source_id": 3023,
+                "target_id": 3065,
+                "strength": 4
+            },
+            {
+                "source_id": 3023,
+                "target_id": 4632,
+                "strength": 2
+            },
+            {
+                "source_id": 3023,
+                "target_id": 4860,
+                "strength": 15
+            },
+            {
+                "source_id": 3023,
+                "target_id": 5037,
+                "strength": 2
+            },
+            {
+                "source_id": 3023,
+                "target_id": 5517,
+                "strength": 2
+            },
+            {
+                "source_id": 3023,
+                "target_id": 5980,
+                "strength": 1
+            },
+            {
+                "source_id": 3040,
+                "target_id": 3065,
+                "strength": 1
+            },
+            {
+                "source_id": 3040,
+                "target_id": 4632,
+                "strength": 2
+            },
+            {
+                "source_id": 3040,
+                "target_id": 4860,
+                "strength": 5
+            },
+            {
+                "source_id": 3041,
+                "target_id": 3065,
+                "strength": 2
+            },
+            {
+                "source_id": 3041,
+                "target_id": 3202,
+                "strength": 1
+            },
+            {
+                "source_id": 3041,
+                "target_id": 4632,
+                "strength": 1
+            },
+            {
+                "source_id": 3041,
+                "target_id": 4860,
+                "strength": 10
+            },
+            {
+                "source_id": 3041,
+                "target_id": 5037,
+                "strength": 1
+            },
+            {
+                "source_id": 3041,
+                "target_id": 5040,
+                "strength": 1
+            },
+            {
+                "source_id": 3041,
+                "target_id": 5517,
+                "strength": 1
+            },
+            {
+                "source_id": 3041,
+                "target_id": 5703,
+                "strength": 1
+            },
+            {
+                "source_id": 3065,
+                "target_id": 3861,
+                "strength": 1
+            },
+            {
+                "source_id": 3065,
+                "target_id": 4299,
+                "strength": 2
+            },
+            {
+                "source_id": 3065,
+                "target_id": 4632,
+                "strength": 1
+            },
+            {
+                "source_id": 3065,
+                "target_id": 4856,
+                "strength": 1
+            },
+            {
+                "source_id": 3065,
+                "target_id": 4860,
+                "strength": 19
+            },
+            {
+                "source_id": 3065,
+                "target_id": 4999,
+                "strength": 2
+            },
+            {
+                "source_id": 3065,
+                "target_id": 5037,
+                "strength": 1
+            },
+            {
+                "source_id": 3065,
+                "target_id": 5928,
+                "strength": 1
+            },
+            {
+                "source_id": 3065,
+                "target_id": 6072,
+                "strength": 6
+            },
+            {
+                "source_id": 3202,
+                "target_id": 4860,
+                "strength": 3
+            },
+            {
+                "source_id": 3861,
+                "target_id": 4860,
+                "strength": 1
+            },
+            {
+                "source_id": 3913,
+                "target_id": 4860,
+                "strength": 1
+            },
+            {
+                "source_id": 4034,
+                "target_id": 4860,
+                "strength": 3
+            },
+            {
+                "source_id": 4034,
+                "target_id": 6063,
+                "strength": 2
+            },
+            {
+                "source_id": 4299,
+                "target_id": 4860,
+                "strength": 4
+            },
+            {
+                "source_id": 4299,
+                "target_id": 5928,
+                "strength": 2
+            },
+            {
+                "source_id": 4299,
+                "target_id": 6072,
+                "strength": 3
+            },
+            {
+                "source_id": 4632,
+                "target_id": 4856,
+                "strength": 4
+            },
+            {
+                "source_id": 4632,
+                "target_id": 4860,
+                "strength": 16
+            },
+            {
+                "source_id": 4632,
+                "target_id": 4999,
+                "strength": 3
+            },
+            {
+                "source_id": 4632,
+                "target_id": 5037,
+                "strength": 2
+            },
+            {
+                "source_id": 4632,
+                "target_id": 5517,
+                "strength": 1
+            },
+            {
+                "source_id": 4632,
+                "target_id": 6234,
+                "strength": 1
+            },
+            {
+                "source_id": 4856,
+                "target_id": 4860,
+                "strength": 14
+            },
+            {
+                "source_id": 4856,
+                "target_id": 4999,
+                "strength": 1
+            },
+            {
+                "source_id": 4856,
+                "target_id": 5517,
+                "strength": 1
+            },
+            {
+                "source_id": 4860,
+                "target_id": 4999,
+                "strength": 14
+            },
+            {
+                "source_id": 4860,
+                "target_id": 5037,
+                "strength": 7
+            },
+            {
+                "source_id": 4860,
+                "target_id": 5040,
+                "strength": 4
+            },
+            {
+                "source_id": 4860,
+                "target_id": 5337,
+                "strength": 1
+            },
+            {
+                "source_id": 4860,
+                "target_id": 5517,
+                "strength": 13
+            },
+            {
+                "source_id": 4860,
+                "target_id": 5703,
+                "strength": 3
+            },
+            {
+                "source_id": 4860,
+                "target_id": 5928,
+                "strength": 5
+            },
+            {
+                "source_id": 4860,
+                "target_id": 6063,
+                "strength": 3
+            },
+            {
+                "source_id": 4860,
+                "target_id": 6072,
+                "strength": 10
+            },
+            {
+                "source_id": 4860,
+                "target_id": 6234,
+                "strength": 1
+            },
+            {
+                "source_id": 4999,
+                "target_id": 5928,
+                "strength": 1
+            },
+            {
+                "source_id": 4999,
+                "target_id": 6234,
+                "strength": 1
+            },
+            {
+                "source_id": 5037,
+                "target_id": 5517,
+                "strength": 2
+            },
+            {
+                "source_id": 5337,
+                "target_id": 6234,
+                "strength": 1
+            },
+            {
+                "source_id": 5928,
+                "target_id": 6072,
+                "strength": 5
+            }
+        ]
+    }
+}

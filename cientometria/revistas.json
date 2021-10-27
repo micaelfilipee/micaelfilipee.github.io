@@ -1,0 +1,579 @@
+{
+    "network": {
+        "items": [
+            {
+                "id": 68,
+                "label": "applied sciences",
+                "x": 0.12128340257086745,
+                "y": 0.2481684772523422,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 14,
+                    "Norm. citations": 1.7359
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.5,
+                    "Avg. citations": 2.3333,
+                    "Avg. norm. citations": 0.2893
+                }
+            },
+            {
+                "id": 126,
+                "label": "circuits, systems, and signal processing",
+                "x": -0.07926933821632472,
+                "y": 0.8895838753412522,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 17,
+                    "Norm. citations": 2.8949
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.2,
+                    "Avg. citations": 3.4,
+                    "Avg. norm. citations": 0.579
+                }
+            },
+            {
+                "id": 146,
+                "label": "computer communications",
+                "x": -0.917962418040577,
+                "y": -0.5693219925299094,
+                "cluster": 6,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 39,
+                    "Norm. citations": 15.3813
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.5,
+                    "Avg. citations": 6.5,
+                    "Avg. norm. citations": 2.5636
+                }
+            },
+            {
+                "id": 151,
+                "label": "computer networks",
+                "x": 1.4332669712070245,
+                "y": 0.23968692095470612,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 8,
+                    "Citations": 49,
+                    "Norm. citations": 8.9248
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.25,
+                    "Avg. citations": 6.125,
+                    "Avg. norm. citations": 1.1156
+                }
+            },
+            {
+                "id": 201,
+                "label": "electric power systems research",
+                "x": 0.7912662040327281,
+                "y": -0.5924506714061593,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 7,
+                    "Citations": 9,
+                    "Norm. citations": 2.2017
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.8571,
+                    "Avg. citations": 1.2857,
+                    "Avg. norm. citations": 0.3145
+                }
+            },
+            {
+                "id": 216,
+                "label": "energies",
+                "x": 0.6153292944962448,
+                "y": -0.3752646169891871,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 15,
+                    "Norm. citations": 2.9163
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.8333,
+                    "Avg. citations": 2.5,
+                    "Avg. norm. citations": 0.486
+                }
+            },
+            {
+                "id": 272,
+                "label": "future generation computer systems",
+                "x": -0.6742560168621086,
+                "y": -0.33608837540339437,
+                "cluster": 6,
+                "weights": {
+                    "Documents": 24,
+                    "Citations": 409,
+                    "Norm. citations": 43.7315
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.0417,
+                    "Avg. citations": 17.0417,
+                    "Avg. norm. citations": 1.8221
+                }
+            },
+            {
+                "id": 292,
+                "label": "ieee access",
+                "x": -0.09891523460868437,
+                "y": 0.5687464606437874,
+                "cluster": 5,
+                "weights": {
+                    "Documents": 63,
+                    "Citations": 818,
+                    "Norm. citations": 92.8388
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.4921,
+                    "Avg. citations": 12.9841,
+                    "Avg. norm. citations": 1.4736
+                }
+            },
+            {
+                "id": 294,
+                "label": "ieee communications magazine",
+                "x": 1.1521764775417802,
+                "y": 0.15094113318634605,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 13,
+                    "Citations": 582,
+                    "Norm. citations": 42.7766
+                },
+                "scores": {
+                    "Avg. pub. year": 2017.9231,
+                    "Avg. citations": 44.7692,
+                    "Avg. norm. citations": 3.2905
+                }
+            },
+            {
+                "id": 302,
+                "label": "ieee internet of things journal",
+                "x": -0.6960325318092523,
+                "y": -0.010559838415586933,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 16,
+                    "Citations": 480,
+                    "Norm. citations": 45.0328
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 30,
+                    "Avg. norm. citations": 2.8146
+                }
+            },
+            {
+                "id": 306,
+                "label": "ieee latin america transactions",
+                "x": -0.3342599251630181,
+                "y": -0.44125886540624976,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 22,
+                    "Citations": 39,
+                    "Norm. citations": 3.4734
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.0909,
+                    "Avg. citations": 1.7727,
+                    "Avg. norm. citations": 0.1579
+                }
+            },
+            {
+                "id": 336,
+                "label": "ieee transactions on industrial informatics",
+                "x": 0.3555038184117255,
+                "y": -0.07519117001100435,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 13,
+                    "Citations": 522,
+                    "Norm. citations": 58.6137
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.9231,
+                    "Avg. citations": 40.1538,
+                    "Avg. norm. citations": 4.5087
+                }
+            },
+            {
+                "id": 351,
+                "label": "ieee wireless communications",
+                "x": -0.12336568315117494,
+                "y": -0.47001447338464813,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 8,
+                    "Citations": 147,
+                    "Norm. citations": 15.2687
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 18.375,
+                    "Avg. norm. citations": 1.9086
+                }
+            },
+            {
+                "id": 366,
+                "label": "information and software technology",
+                "x": -1.0546395003003617,
+                "y": -0.01919718185878531,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 53,
+                    "Norm. citations": 7.3187
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.3333,
+                    "Avg. citations": 8.8333,
+                    "Avg. norm. citations": 1.2198
+                }
+            },
+            {
+                "id": 405,
+                "label": "international journal of communication systems",
+                "x": 0.13711291881464635,
+                "y": -0.31353991686126526,
+                "cluster": 2,
+                "weights": {
+                    "Documents": 12,
+                    "Citations": 83,
+                    "Norm. citations": 14.9295
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.5833,
+                    "Avg. citations": 6.9167,
+                    "Avg. norm. citations": 1.2441
+                }
+            },
+            {
+                "id": 491,
+                "label": "journal of cleaner production",
+                "x": -0.42634172566499534,
+                "y": 0.33450057197234023,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 8,
+                    "Citations": 270,
+                    "Norm. citations": 34.0478
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5,
+                    "Avg. citations": 33.75,
+                    "Avg. norm. citations": 4.256
+                }
+            },
+            {
+                "id": 547,
+                "label": "journal of network and computer applications",
+                "x": -0.6142890142166304,
+                "y": 0.06392656576328558,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 99,
+                    "Norm. citations": 7.3019
+                },
+                "scores": {
+                    "Avg. pub. year": 2017.6,
+                    "Avg. citations": 19.8,
+                    "Avg. norm. citations": 1.4604
+                }
+            },
+            {
+                "id": 566,
+                "label": "journal of sensor and actuator networks",
+                "x": -0.8150600661900446,
+                "y": 0.3264348364813323,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 69,
+                    "Norm. citations": 9.2555
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.6,
+                    "Avg. citations": 13.8,
+                    "Avg. norm. citations": 1.8511
+                }
+            },
+            {
+                "id": 611,
+                "label": "measurement",
+                "x": -0.11253254026417546,
+                "y": 0.27714310896544386,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 7,
+                    "Citations": 167,
+                    "Norm. citations": 17.8708
+                },
+                "scores": {
+                    "Avg. pub. year": 2019,
+                    "Avg. citations": 23.8571,
+                    "Avg. norm. citations": 2.553
+                }
+            },
+            {
+                "id": 808,
+                "label": "sensors",
+                "x": -0.1814258213476422,
+                "y": -0.08225985531280496,
+                "cluster": 3,
+                "weights": {
+                    "Documents": 37,
+                    "Citations": 433,
+                    "Norm. citations": 48.0982
+                },
+                "scores": {
+                    "Avg. pub. year": 2018.6757,
+                    "Avg. citations": 11.7027,
+                    "Avg. norm. citations": 1.3
+                }
+            },
+            {
+                "id": 823,
+                "label": "software: practice and experience",
+                "x": 1.0779200066804338,
+                "y": -0.08052530108034746,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 10,
+                    "Norm. citations": 1.8456
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.8333,
+                    "Avg. citations": 1.6667,
+                    "Avg. norm. citations": 0.3076
+                }
+            },
+            {
+                "id": 858,
+                "label": "the journal of supercomputing",
+                "x": 0.8036058119608279,
+                "y": 0.011244672845949065,
+                "cluster": 4,
+                "weights": {
+                    "Documents": 5,
+                    "Citations": 11,
+                    "Norm. citations": 7.4624
+                },
+                "scores": {
+                    "Avg. pub. year": 2020.2,
+                    "Avg. citations": 2.2,
+                    "Avg. norm. citations": 1.4925
+                }
+            },
+            {
+                "id": 867,
+                "label": "transactions on emerging telecommunications technologies",
+                "x": -0.3591150898812901,
+                "y": 0.2552956352525565,
+                "cluster": 1,
+                "weights": {
+                    "Documents": 6,
+                    "Citations": 32,
+                    "Norm. citations": 3.6518
+                },
+                "scores": {
+                    "Avg. pub. year": 2019.5,
+                    "Avg. citations": 5.3333,
+                    "Avg. norm. citations": 0.6086
+                }
+            }
+        ],
+        "links": [
+            {
+                "source_id": 68,
+                "target_id": 292,
+                "strength": 1
+            },
+            {
+                "source_id": 68,
+                "target_id": 336,
+                "strength": 1
+            },
+            {
+                "source_id": 68,
+                "target_id": 808,
+                "strength": 1
+            },
+            {
+                "source_id": 126,
+                "target_id": 292,
+                "strength": 2
+            },
+            {
+                "source_id": 146,
+                "target_id": 272,
+                "strength": 3
+            },
+            {
+                "source_id": 151,
+                "target_id": 294,
+                "strength": 2
+            },
+            {
+                "source_id": 201,
+                "target_id": 216,
+                "strength": 1
+            },
+            {
+                "source_id": 216,
+                "target_id": 336,
+                "strength": 1
+            },
+            {
+                "source_id": 272,
+                "target_id": 302,
+                "strength": 2
+            },
+            {
+                "source_id": 272,
+                "target_id": 547,
+                "strength": 1
+            },
+            {
+                "source_id": 272,
+                "target_id": 808,
+                "strength": 1
+            },
+            {
+                "source_id": 292,
+                "target_id": 491,
+                "strength": 1
+            },
+            {
+                "source_id": 292,
+                "target_id": 867,
+                "strength": 1
+            },
+            {
+                "source_id": 294,
+                "target_id": 858,
+                "strength": 1
+            },
+            {
+                "source_id": 302,
+                "target_id": 366,
+                "strength": 1
+            },
+            {
+                "source_id": 302,
+                "target_id": 547,
+                "strength": 1
+            },
+            {
+                "source_id": 302,
+                "target_id": 566,
+                "strength": 2
+            },
+            {
+                "source_id": 302,
+                "target_id": 808,
+                "strength": 3
+            },
+            {
+                "source_id": 302,
+                "target_id": 867,
+                "strength": 1
+            },
+            {
+                "source_id": 306,
+                "target_id": 808,
+                "strength": 1
+            },
+            {
+                "source_id": 336,
+                "target_id": 405,
+                "strength": 1
+            },
+            {
+                "source_id": 336,
+                "target_id": 808,
+                "strength": 3
+            },
+            {
+                "source_id": 336,
+                "target_id": 858,
+                "strength": 1
+            },
+            {
+                "source_id": 351,
+                "target_id": 808,
+                "strength": 1
+            },
+            {
+                "source_id": 405,
+                "target_id": 808,
+                "strength": 2
+            },
+            {
+                "source_id": 491,
+                "target_id": 547,
+                "strength": 1
+            },
+            {
+                "source_id": 491,
+                "target_id": 566,
+                "strength": 1
+            },
+            {
+                "source_id": 491,
+                "target_id": 611,
+                "strength": 1
+            },
+            {
+                "source_id": 491,
+                "target_id": 808,
+                "strength": 3
+            },
+            {
+                "source_id": 491,
+                "target_id": 867,
+                "strength": 1
+            },
+            {
+                "source_id": 547,
+                "target_id": 566,
+                "strength": 1
+            },
+            {
+                "source_id": 547,
+                "target_id": 808,
+                "strength": 1
+            },
+            {
+                "source_id": 547,
+                "target_id": 867,
+                "strength": 2
+            },
+            {
+                "source_id": 611,
+                "target_id": 808,
+                "strength": 4
+            },
+            {
+                "source_id": 808,
+                "target_id": 867,
+                "strength": 3
+            },
+            {
+                "source_id": 823,
+                "target_id": 858,
+                "strength": 1
+            }
+        ]
+    }
+}
